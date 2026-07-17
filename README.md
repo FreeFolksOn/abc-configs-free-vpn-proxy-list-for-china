@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-17%2003%3A57%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-17%2004%3A07%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-17 03:57 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-17 04:07 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>46 分钟前</td><td>169 ms</td><td>100.0%</td><td>46 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
-    <tr><td>02</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>56 分钟前</td><td>169 ms</td><td>100.0%</td><td>56 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
+    <tr><td>02</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#Нидерланды🇳🇱</code></td></tr>
     <tr><td>03</td><td>2 小时前</td><td>167 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206YTMzOEE5@56.10.43.137:8888#Сингапур🇸🇬</code></td></tr>
     <tr><td>04</td><td>3 小时前</td><td>192 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.138:10851#Гонконг🇭🇰</code></td></tr>
     <tr><td>05</td><td>4 小时前</td><td>25 ms</td><td>100.0%</td><td>4 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.12.48.126:1080#Великобритания🇬🇧</code></td></tr>
-    <tr><td>06</td><td>5 小时前</td><td>16 ms</td><td>100.0%</td><td>5 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#Швейцария🇨🇭</code></td></tr>
+    <tr><td>06</td><td>6 小时前</td><td>16 ms</td><td>100.0%</td><td>6 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#Швейцария🇨🇭</code></td></tr>
     <tr><td>07</td><td>6 小时前</td><td>12 ms</td><td>100.0%</td><td>6 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCT2FqREI3amo0Q3NQWEFLZ1Jua0lR@5.253.59.156:32140#Нидерланды🇳🇱</code></td></tr>
     <tr><td>08</td><td>7 小时前</td><td>12 ms</td><td>100.0%</td><td>7 小时前</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.83.138:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM%40JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyMJLEY3</code></td></tr>
     <tr><td>09</td><td>7 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://77dd9c10-be76-463b-8899-5c2509a0809b@91.107.242.241:21254?security=reality&amp;encryption=none&amp;pbk=3kh6wi_RybCxTsl6dCggTDLTutruDdIbIr4fYgu6oEE&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yahoo.com&amp;sid=a20a8fdc#🆔ManVPN👈🇩🇪 IRAN%20154%20%28%40Outline_Vpn%29%20free</code></td></tr>
@@ -71,8 +71,8 @@
     <tr><td>12</td><td>7 小时前</td><td>7 ms</td><td>100.0%</td><td>7 小时前</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@151.101.56.7:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
     <tr><td>13</td><td>7 小时前</td><td>7 ms</td><td>100.0%</td><td>7 小时前</td><td>#trojan</td><td><code>trojan://7b12dfabbe374661a12d11d698d86fbd@199.232.206.245:443?type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=networkzvx.global.ssl.fastly.net&amp;mode=packet-up&amp;sni=ssl.fastly.com&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox&amp;insecure=0&amp;allowInsecure=0#🇩🇪 Telegram @SRCVPN</code></td></tr>
     <tr><td>14</td><td>7 小时前</td><td>38 ms</td><td>100.0%</td><td>7 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFVFVPT1FUcGRycktsbjcyVVl4d2lv@130.49.189.158:10792#Россия🇷🇺</code></td></tr>
-    <tr><td>15</td><td>7 小时前</td><td>15 ms</td><td>100.0%</td><td>7 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>16</td><td>7 小时前</td><td>15 ms</td><td>100.0%</td><td>7 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>15</td><td>8 小时前</td><td>15 ms</td><td>100.0%</td><td>8 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>16</td><td>8 小时前</td><td>15 ms</td><td>100.0%</td><td>8 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>17</td><td>8 小时前</td><td>15 ms</td><td>100.0%</td><td>8 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>18</td><td>8 小时前</td><td>140 ms</td><td>100.0%</td><td>8 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
     <tr><td>19</td><td>9 小时前</td><td>15 ms</td><td>100.0%</td><td>9 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
