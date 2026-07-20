@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-20%2017%3A47%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-20%2017%3A57%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,23 +50,23 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-20 17:47 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-20 17:57 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>33 分钟前</td><td>8 ms</td><td>100.0%</td><td>32 分钟前</td><td>#trojan</td><td><code>trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
-    <tr><td>02</td><td>33 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#ss</td><td><code>ss://8673cea6…</code></td></tr>
-    <tr><td>03</td><td>33 分钟前</td><td>8 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
-    <tr><td>04</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#ss</td><td><code>ss://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.165:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vp3.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vp3.cc.cd#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9</code></td></tr>
-    <tr><td>05</td><td>33 分钟前</td><td>51 ms</td><td>100.0%</td><td>33 分钟前</td><td>#ss</td><td><code>ss://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&amp;encryption=none&amp;pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=80ba#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
-    <tr><td>06</td><td>33 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40vpnbaz%20%E2%AD%90</code></td></tr>
-    <tr><td>07</td><td>33 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://8673cea6…</code></td></tr>
-    <tr><td>08</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
-    <tr><td>09</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.165:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vp3.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vp3.cc.cd#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9</code></td></tr>
-    <tr><td>10</td><td>33 分钟前</td><td>49 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&amp;encryption=none&amp;pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=80ba#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
+    <tr><td>01</td><td>43 分钟前</td><td>8 ms</td><td>100.0%</td><td>42 分钟前</td><td>#trojan</td><td><code>trojan://humanity@185.18.250.252:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.multiplydose.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
+    <tr><td>02</td><td>43 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#ss</td><td><code>ss://8673cea6…</code></td></tr>
+    <tr><td>03</td><td>43 分钟前</td><td>8 ms</td><td>100.0%</td><td>42 分钟前</td><td>#ss</td><td><code>ss://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
+    <tr><td>04</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#ss</td><td><code>ss://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.165:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vp3.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vp3.cc.cd#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9</code></td></tr>
+    <tr><td>05</td><td>43 分钟前</td><td>51 ms</td><td>100.0%</td><td>43 分钟前</td><td>#ss</td><td><code>ss://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&amp;encryption=none&amp;pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=80ba#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
+    <tr><td>06</td><td>43 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyMTdGZzl6cGdwVlM0REdF@20.166.58.64:443#%40vpnbaz%20%E2%AD%90</code></td></tr>
+    <tr><td>07</td><td>43 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://8673cea6…</code></td></tr>
+    <tr><td>08</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=rubifen.adaspoloandco.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=rubifen.adaspoloandco.com#%40vpnbaz%20%E2%98%82%EF%B8%8F</code></td></tr>
+    <tr><td>09</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://663cf772-829c-4bc6-893d-b7d021d42f5b@91.193.59.165:8443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=vp3.cc.cd&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=vp3.cc.cd#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9</code></td></tr>
+    <tr><td>10</td><td>43 分钟前</td><td>49 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://f040b49a-14d3-4b83-af82-1f84ec7317c2@147.45.136.213:40443?security=reality&amp;encryption=none&amp;pbk=1XGOxBopp223HFaTlswL3QE_1KW3WLgEbcHMA5cX9iM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=deepl.com&amp;sid=80ba#%40vpnbaz%20%F0%9F%8C%8A</code></td></tr>
     <tr><td>11</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>12</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.75.155.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>13</td><td>1 小时前</td><td>23 ms</td><td>100.0%</td><td>1 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
@@ -78,7 +78,7 @@
     <tr><td>19</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>20</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@3.125.21.222:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>21</td><td>1 小时前</td><td>191 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.52:10851#Гонконг🇭🇰</code></td></tr>
-    <tr><td>22</td><td>1 小时前</td><td>24 ms</td><td>100.0%</td><td>1 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>22</td><td>2 小时前</td><td>24 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>23</td><td>2 小时前</td><td>286 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.34.200:50099#Тайвань🇹🇼</code></td></tr>
     <tr><td>24</td><td>3 小时前</td><td>19 ms</td><td>100.0%</td><td>3 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>25</td><td>3 小时前</td><td>15 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:8443?encryption=none&amp;type=ws&amp;security=tls&amp;path=%2F&amp;host=t1s1.rittbo.kdns.fr&amp;sni=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;insecure=0&amp;allowInsecure=0#%40NormanV2ray%20%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5</code></td></tr>
