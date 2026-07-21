@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-21%2022%3A47%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-21%2022%3A57%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-21 22:47 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-21 22:57 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>27 分钟前</td><td>35 ms</td><td>100.0%</td><td>27 分钟前</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>02</td><td>27 分钟前</td><td>37 ms</td><td>100.0%</td><td>27 分钟前</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>01</td><td>37 分钟前</td><td>35 ms</td><td>100.0%</td><td>37 分钟前</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
+    <tr><td>02</td><td>37 分钟前</td><td>37 ms</td><td>100.0%</td><td>37 分钟前</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>03</td><td>1 小时前</td><td>20 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
     <tr><td>04</td><td>1 小时前</td><td>21 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80#Великобритания🇬🇧</code></td></tr>
     <tr><td>05</td><td>2 小时前</td><td>27 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://378df8e8-add6-4416-9eba-e30042fc19c8@37.27.220.157:443?security=reality&amp;encryption=none&amp;pbk=98o3NKmGSULn2eRsvgrWQk9blOwPAQ4Lt4YWu_R-GBk&amp;host=%2F%3FJOKERRVPNCopy-az-chahnnel-%40JOKERRVPN&amp;headerType=none&amp;fp=random&amp;spx=%2FJOKERRVPNBIA_CHANEL%40JOKERRVPN&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=cbfe#🆔ManVPN👈🇫🇮 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%8534A7LC</code></td></tr>
@@ -69,8 +69,8 @@
     <tr><td>10</td><td>2 小时前</td><td>141 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Индия🇮🇳</code></td></tr>
     <tr><td>11</td><td>2 小时前</td><td>379 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
     <tr><td>12</td><td>2 小时前</td><td>374 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://7e5e2a1d-6234-4ad0-ab9a-4d918368cbd8@90.156.255.166:36100#Латвия🇱🇻</code></td></tr>
-    <tr><td>13</td><td>2 小时前</td><td>16 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>14</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>13</td><td>3 小时前</td><td>16 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>14</td><td>3 小时前</td><td>14 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.89.209:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>15</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
     <tr><td>16</td><td>3 小时前</td><td>15 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.38.119:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=t1s1.rittbo.kdns.fr&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=t1s1.rittbo.kdns.fr#%40vpnbaz%20%F0%9F%90%8D</code></td></tr>
     <tr><td>17</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://7968c546-02dc-4f8c-b791-934591a94cb2@104.16.72.50:443?path=%2Fcbasur&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhvl.hhapp.kdns.fr&amp;type=ws&amp;allowInsecure=0&amp;sni=hhvl.hhapp.kdns.fr#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
