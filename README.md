@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-23%2021%3A27%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-23%2021%3A37%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-23 21:27 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-23 21:37 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>11 分钟前</td><td>92 ms</td><td>100.0%</td><td>11 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>52 分钟前</td><td>11 ms</td><td>100.0%</td><td>52 分钟前</td><td>#ss</td><td><code>ss://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85HBDLRL</code></td></tr>
-    <tr><td>03</td><td>52 分钟前</td><td>13 ms</td><td>100.0%</td><td>52 分钟前</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
-    <tr><td>04</td><td>52 分钟前</td><td>11 ms</td><td>100.0%</td><td>52 分钟前</td><td>#vless</td><td><code>vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85HBDLRL</code></td></tr>
-    <tr><td>05</td><td>52 分钟前</td><td>14 ms</td><td>100.0%</td><td>52 分钟前</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>01</td><td>21 分钟前</td><td>92 ms</td><td>100.0%</td><td>21 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>1 小时前</td><td>11 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85HBDLRL</code></td></tr>
+    <tr><td>03</td><td>1 小时前</td><td>13 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
+    <tr><td>04</td><td>1 小时前</td><td>11 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://91a5d5b3-4b88-4359-aeec-e1532f535fd6@91.99.195.6:80?mode=gun&amp;security=reality&amp;encryption=none&amp;authority=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&amp;pbk=ZO276Z5WXIqCmNLXT8Lewzjhhgm365JUJXAKyKq8Rz4&amp;fp=chrome&amp;type=grpc&amp;serviceName=refersion.com&amp;sni=refersion.com&amp;sid=bc063769cb#🆔ManVPN👈🇩🇪 %E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85HBDLRL</code></td></tr>
+    <tr><td>05</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@172.66.132.44:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=abcd.taraneh.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20126%20%28%40Outline_Vpn%29%20free</code></td></tr>
     <tr><td>06</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>07</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.22.60:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>1 小时前</td><td>13 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.251.2:1080#Бельгия🇧🇪</code></td></tr>
