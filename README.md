@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-26%2021%3A17%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-26%2021%3A27%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,29 +50,29 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-26 21:17 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-26 21:27 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>5 分钟前</td><td>482 ms</td><td>100.0%</td><td>4 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>45 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
-    <tr><td>03</td><td>45 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
-    <tr><td>04</td><td>45 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
-    <tr><td>05</td><td>45 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
-    <tr><td>06</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=a.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34</code></td></tr>
-    <tr><td>07</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=77.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>08</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=r77roo88001m1.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>09</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=167.235.30.103&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>10</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=ycc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>11</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=h7466ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>12</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=ams1.tlgfast.com&amp;port=443&amp;secret=083fe0c452e2407d835537872f097c54</code></td></tr>
-    <tr><td>13</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=pathory.co.uk.&amp;port=443&amp;secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</code></td></tr>
-    <tr><td>14</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=br8ta.co.uk.&amp;port=443&amp;secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</code></td></tr>
-    <tr><td>15</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=000ii77.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>16</td><td>50 分钟前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?serv…</code></td></tr>
+    <tr><td>01</td><td>15 分钟前</td><td>482 ms</td><td>100.0%</td><td>14 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>55 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
+    <tr><td>03</td><td>55 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
+    <tr><td>04</td><td>55 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.92.95:51615?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNP5XZIY</code></td></tr>
+    <tr><td>05</td><td>55 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://971b7cb1-3309-5fc0-9336-0a6a2d4eac9f@h32.1.beROzHA.IR:2053?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;host=h32.1.beROzHA.IR&amp;fp=ios&amp;type=ws&amp;sni=h32.1.beROzHA.IR#🆔ManVPN👈6-vless-worker-h32.1.beROzHA.IR</code></td></tr>
+    <tr><td>06</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=a.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34</code></td></tr>
+    <tr><td>07</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=77.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>08</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=r77roo88001m1.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>09</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=167.235.30.103&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>10</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=ycc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>11</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=h7466ssxxxc8s61f64d6gar01a632511kkkkk.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>12</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=ams1.tlgfast.com&amp;port=443&amp;secret=083fe0c452e2407d835537872f097c54</code></td></tr>
+    <tr><td>13</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=pathory.co.uk.&amp;port=443&amp;secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</code></td></tr>
+    <tr><td>14</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=br8ta.co.uk.&amp;port=443&amp;secret=ddf0eeb0bd9adc4fd4a93994ee3b2a216b</code></td></tr>
+    <tr><td>15</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?server=000ii77.ir.ir.ir.meli-n12.info&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>16</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#tg_proxy</td><td><code>tg://proxy?serv…</code></td></tr>
     <tr><td>17</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>18</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.213.86:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>19</td><td>1 小时前</td><td>22 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
