@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-29%2020%3A37%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-07-29%2020%3A47%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,25 +50,25 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-07-29 20:37 UTC（每 10 分钟刷新）
+**最后更新：** 2026-07-29 20:47 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>3 分钟前</td><td>9 ms</td><td>100.0%</td><td>2 分钟前</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNJG23Y5</code></td></tr>
-    <tr><td>02</td><td>3 分钟前</td><td>7 ms</td><td>100.0%</td><td>3 分钟前</td><td>#ss</td><td><code>ss://d6ff470b-51b3-4fe3-b4db-419f101adc85@104.27.39.172:2086?path=%2F%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&amp;type=httpupgrade#🆔ManVPN👈🇺🇸 Join%20-to%E2%96%B6%EF%B8%8F%20%40flyv2ray</code></td></tr>
-    <tr><td>03</td><td>3 分钟前</td><td>10 ms</td><td>100.0%</td><td>3 分钟前</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNJG23Y5</code></td></tr>
-    <tr><td>04</td><td>3 分钟前</td><td>7 ms</td><td>100.0%</td><td>3 分钟前</td><td>#vless</td><td><code>vless://d6ff470b-51b3-4fe3-b4db-419f101adc85@104.27.39.172:2086?path=%2F%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&amp;type=httpupgrade#🆔ManVPN👈🇺🇸 Join%20-to%E2%96%B6%EF%B8%8F%20%40flyv2ray</code></td></tr>
-    <tr><td>05</td><td>22 分钟前</td><td>15 ms</td><td>100.0%</td><td>22 分钟前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>06</td><td>22 分钟前</td><td>15 ms</td><td>100.0%</td><td>22 分钟前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>07</td><td>29 分钟前</td><td>204 ms</td><td>100.0%</td><td>29 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>08</td><td>51 分钟前</td><td>18 ms</td><td>100.0%</td><td>50 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>13 分钟前</td><td>9 ms</td><td>100.0%</td><td>12 分钟前</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNJG23Y5</code></td></tr>
+    <tr><td>02</td><td>13 分钟前</td><td>7 ms</td><td>100.0%</td><td>13 分钟前</td><td>#ss</td><td><code>ss://d6ff470b-51b3-4fe3-b4db-419f101adc85@104.27.39.172:2086?path=%2F%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&amp;type=httpupgrade#🆔ManVPN👈🇺🇸 Join%20-to%E2%96%B6%EF%B8%8F%20%40flyv2ray</code></td></tr>
+    <tr><td>03</td><td>13 分钟前</td><td>10 ms</td><td>100.0%</td><td>13 分钟前</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.160.13:443?security=none&amp;encryption=none&amp;host=zula.ir%2F%3FTELEGRAM_JOKERRVPN&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 @ManVPNJG23Y5</code></td></tr>
+    <tr><td>04</td><td>13 分钟前</td><td>7 ms</td><td>100.0%</td><td>13 分钟前</td><td>#vless</td><td><code>vless://d6ff470b-51b3-4fe3-b4db-419f101adc85@104.27.39.172:2086?path=%2F%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%D9%80%40DarkHub_VPN%3Fed%3D8880&amp;security=none&amp;encryption=none&amp;host=Www.nnMn.YskBs.kDbDuB.jsiHsbS.Www.ClouD.faler.FjfUb.KetAbChI.ToP.&amp;type=httpupgrade#🆔ManVPN👈🇺🇸 Join%20-to%E2%96%B6%EF%B8%8F%20%40flyv2ray</code></td></tr>
+    <tr><td>05</td><td>32 分钟前</td><td>15 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>06</td><td>32 分钟前</td><td>15 ms</td><td>100.0%</td><td>32 分钟前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.37.42:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>07</td><td>39 分钟前</td><td>204 ms</td><td>100.0%</td><td>39 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319#Бразилия🇧🇷</code></td></tr>
+    <tr><td>08</td><td>1 小时前</td><td>18 ms</td><td>100.0%</td><td>1 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>09</td><td>1 小时前</td><td>197 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@137.131.170.144:59319#Бразилия🇧🇷</code></td></tr>
-    <tr><td>10</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>11</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>12</td><td>1 小时前</td><td>19 ms</td><td>100.0%</td><td>1 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>10</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>11</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.168.93:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>12</td><td>2 小时前</td><td>19 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>13</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40vpnbaz%20%E2%AD%90</code></td></tr>
     <tr><td>14</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.37.228:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#%40vpnbaz%20%E2%AD%90</code></td></tr>
     <tr><td>15</td><td>2 小时前</td><td>26 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@sca34.mysilipdir.com:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%40vpnbaz%20%F0%9F%8D%AD</code></td></tr>
