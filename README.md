@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-03%2000%3A07%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-03%2000%3A17%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,7 +50,7 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-03 00:07 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-03 00:17 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
@@ -58,7 +58,7 @@
   </thead>
   <tbody>
     <tr><td>01</td><td>1 小时前</td><td>37 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA==@195.58.48.19:10910#Россия🇷🇺</code></td></tr>
-    <tr><td>02</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Германия🇩🇪</code></td></tr>
+    <tr><td>02</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQV3BqUG8zdHFoUE40eVJa@8.209.74.72:20001#Германия🇩🇪</code></td></tr>
     <tr><td>03</td><td>2 小时前</td><td>13 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>04</td><td>2 小时前</td><td>94 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://7202a610-5cf3-4501-a2af-0a4c31259ca9@tftvxdswa3wdtfkbbvvcbh.iramkemax.ir:2100?mode=stream-up&amp;path=%2Fai-articles-463994-satya-nadella-frontier-diffusion-control-featured&amp;security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.q1MB8IRU8ZqRN24j2MczJ9E2TOcwMLYT0wKO4VxiFQQ&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&amp;pbk=CHCADoZE2wEMJS0tIzO3slFjRpe_pMAbmglYAiRkhCo&amp;fp=chrome&amp;spx=%2…</code></td></tr>
     <tr><td>05</td><td>2 小时前</td><td>18 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
@@ -67,8 +67,8 @@
     <tr><td>08</td><td>2 小时前</td><td>102 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://7202a610-5cf3-4501-a2af-0a4c31259ca9@tftvxdswa3wdtfkbbvvcbh.iramkemax.ir:2100?mode=stream-up&amp;path=%2Fai-articles-463994-satya-nadella-frontier-diffusion-control-featured&amp;security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.q1MB8IRU8ZqRN24j2MczJ9E2TOcwMLYT0wKO4VxiFQQ&amp;extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22xPaddingObfsMode%22%3Atrue%7D&amp;pbk=CHCADoZE2wEMJS0tIzO3slFjRpe_pMAbmglYAiRkhCo&amp;fp=chrome&amp;spx=%2…</code></td></tr>
     <tr><td>09</td><td>2 小时前</td><td>19 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@108.162.198.201:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
     <tr><td>10</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:2053?path=%2Ffdip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=learn00.evany.de5.net&amp;type=ws&amp;allowInsecure=0&amp;sni=learn00.evany.de5.net#Channel%20%3A%20%40Daily_Configs%20</code></td></tr>
-    <tr><td>11</td><td>2 小时前</td><td>13 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
-    <tr><td>12</td><td>2 小时前</td><td>18 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=for--you.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
+    <tr><td>11</td><td>3 小时前</td><td>13 ms</td><td>100.0%</td><td>3 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=abcd.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
+    <tr><td>12</td><td>3 小时前</td><td>18 ms</td><td>100.0%</td><td>3 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=for--you.server2-5mk.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add6d656469612e737465616d706f77657265642e636f6d</code></td></tr>
     <tr><td>13</td><td>3 小时前</td><td>16 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@109.104.154.163:2375#Нидерланды🇳🇱</code></td></tr>
     <tr><td>14</td><td>3 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://6d9ced8b-5e9d-4e0b-b2b5-7b66ed1bd491@t1.heroicshop.ir:1885?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🆔ManVPN👈%40flyv2ray</code></td></tr>
     <tr><td>15</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://1f431db3-1918-4e7b-a855-c93485e11694@104.16.104.151:80?path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=pari.parinazz.dpdns.org&amp;type=ws#🆔ManVPN👈🇺🇸 IRAN%20142%20%28%40Outline_Vpn%29%20free</code></td></tr>
