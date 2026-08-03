@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-03%2008%3A17%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-03%2008%3A27%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,15 +50,15 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-03 08:17 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-03 08:27 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>2 分钟前</td><td>21 ms</td><td>100.0%</td><td>2 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>02</td><td>43 分钟前</td><td>13 ms</td><td>100.0%</td><td>43 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>01</td><td>12 分钟前</td><td>21 ms</td><td>100.0%</td><td>12 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>02</td><td>53 分钟前</td><td>13 ms</td><td>100.0%</td><td>53 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>03</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>04</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@63.185.140.10:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)🇩🇪t.me/PrivateVPNs</code></td></tr>
     <tr><td>05</td><td>1 小时前</td><td>15 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@144.21.36.9:45819#Нидерланды🇳🇱</code></td></tr>
@@ -83,10 +83,10 @@
     <tr><td>24</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&amp;security=none&amp;encryption=none&amp;host=tight-moon-2d50.457.workers.dev&amp;type=ws#%3E%3E%40outline_vpn%3A%3AUS</code></td></tr>
     <tr><td>25</td><td>3 小时前</td><td>10 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://d566d849-ab28-4695-b01f-dcd284b67f5c@91.193.58.166:80?path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=dry-frog-8793.454-dc4.workers.dev&amp;type=ws#%3E%3E%40outline_vpn%3A%3AUS</code></td></tr>
     <tr><td>26</td><td>3 小时前</td><td>8 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://3bc49320-3dcd-4f30-9215-a4fa964e54c7@104.17.181.19:8880?path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&amp;security=none&amp;encryption=none&amp;host=tight-moon-2d50.457.workers.dev&amp;type=ws#%3E%3E%40outline_vpn%3A%3AUS</code></td></tr>
-    <tr><td>27</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http%2F1.1&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol&amp;encryption=none&amp;fp=chrome&amp;host=steep-bonus-8e6a.amirhon1376.workers.dev&amp;path=%2FeyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZ…</code></td></tr>
-    <tr><td>28</td><td>3 小时前</td><td>8 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&amp;fp=chrome&amp;host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&amp;path=%2F%40Marisa_kristi&amp;security=tls&amp;sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX</code></td></tr>
-    <tr><td>29</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f09f4baa-7688-4514-8062-c3ea8e319624@162.159.21.178:8880?encryption=none&amp;host=dark-leaf-93a1.440-02e.workers.dev&amp;path=%2Fpyip%3DProxyIP.US.CMLiussss.net&amp;security=none&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS</code></td></tr>
-    <tr><td>30</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f2d55510-fa3c-4e3b-adfc-2d96fa399c19@91.193.58.13:80?encryption=none&amp;host=plain-darkness-90ea.259.workers.dev&amp;path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=none&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS</code></td></tr>
+    <tr><td>27</td><td>4 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f2f4e2dc-3e7b-402f-a461-b48acc6aa310@172.67.219.176:2087?alpn=http%2F1.1&amp;ed=2560&amp;eh=Sec-WebSocket-Protocol&amp;encryption=none&amp;fp=chrome&amp;host=steep-bonus-8e6a.amirhon1376.workers.dev&amp;path=%2FeyJqdW5rIjoid2JBOTRVclNMOVdBSVQiLCJwcm90b2NvbCI6InZ…</code></td></tr>
+    <tr><td>28</td><td>4 小时前</td><td>8 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f4d859eb-abc6-4c57-9eee-8fe9e2ef0f94@80.240.18.227:10051?encryption=none&amp;fp=chrome&amp;host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&amp;path=%2F%40Marisa_kristi&amp;security=tls&amp;sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AXX</code></td></tr>
+    <tr><td>29</td><td>4 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f09f4baa-7688-4514-8062-c3ea8e319624@162.159.21.178:8880?encryption=none&amp;host=dark-leaf-93a1.440-02e.workers.dev&amp;path=%2Fpyip%3DProxyIP.US.CMLiussss.net&amp;security=none&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS</code></td></tr>
+    <tr><td>30</td><td>4 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://f2d55510-fa3c-4e3b-adfc-2d96fa399c19@91.193.58.13:80?encryption=none&amp;host=plain-darkness-90ea.259.workers.dev&amp;path=%2Fpyip%3DTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&amp;security=none&amp;type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS</code></td></tr>
   </tbody>
 </table>
 
