@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-04%2015%3A27%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-04%2015%3A37%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,7 +50,7 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-04 15:27 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-04 15:37 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
@@ -78,8 +78,8 @@
     <tr><td>19</td><td>2 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.177.131:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇫🇷 @ManVPN 🇨🇵W2HROK</code></td></tr>
     <tr><td>20</td><td>3 小时前</td><td>26 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>21</td><td>3 小时前</td><td>24 ms</td><td>100.0%</td><td>3 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>22</td><td>3 小时前</td><td>20 ms</td><td>100.0%</td><td>3 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>23</td><td>3 小时前</td><td>103 ms</td><td>66.7%</td><td>3 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
+    <tr><td>22</td><td>4 小时前</td><td>20 ms</td><td>100.0%</td><td>4 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>23</td><td>4 小时前</td><td>103 ms</td><td>66.7%</td><td>4 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MUxGVkpoWTZhN2Y4S2VKUGV1WWxu@104.192.227.162:443#США🇺🇸</code></td></tr>
     <tr><td>24</td><td>4 小时前</td><td>105 ms</td><td>100.0%</td><td>4 小时前</td><td>#ss</td><td><code>ss://94d2d711-76e5-4d82-a3c9-4f06fd5558c8@216.227.161.44:443?encryption=none&amp;flow=xtls…</code></td></tr>
     <tr><td>25</td><td>4 小时前</td><td>40 ms</td><td>100.0%</td><td>4 小时前</td><td>#vless</td><td><code>vless://fc03a9a8-ef0f-5794-e119-0c3b68b178e8@89.47.55.4:443?encryption=none&amp;security=reality&amp;sni=cdn.steamstatic.com&amp;fp=chrome&amp;pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&amp;type=xhttp&amp;path=%2F&amp;mode=auto#%40Daily_Configs</code></td></tr>
     <tr><td>26</td><td>4 小时前</td><td>36 ms</td><td>100.0%</td><td>4 小时前</td><td>#vless</td><td><code>vless://6bc19aa1-d94b-488c-9b25-47214d371851@d.mytopmedia.net:200?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=play.google.com#%40Daily_Configs</code></td></tr>
