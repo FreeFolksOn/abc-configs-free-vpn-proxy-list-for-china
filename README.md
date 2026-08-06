@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-06%2003%3A37%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-06%2003%3A47%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,17 +50,17 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-06 03:37 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-06 03:47 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>6 分钟前</td><td>9 ms</td><td>100.0%</td><td>6 分钟前</td><td>#trojan</td><td><code>trojan://humanity@104.17.111.8:443?type=ws&amp;host=www.ignitelimit.com&amp;path=/assignment&amp;security=tls&amp;sni=www.ignitelimit.com&amp;fp=chrome&amp;allowInsecure=0&amp;echfq=none#%3E%3E%40ISVvpn%3A%3AFR</code></td></tr>
-    <tr><td>02</td><td>6 分钟前</td><td>17 ms</td><td>66.7%</td><td>6 分钟前</td><td>#ss</td><td><code>ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
-    <tr><td>03</td><td>6 分钟前</td><td>21 ms</td><td>33.3%</td><td>6 分钟前</td><td>#vless</td><td><code>vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
-    <tr><td>04</td><td>23 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
+    <tr><td>01</td><td>16 分钟前</td><td>9 ms</td><td>100.0%</td><td>16 分钟前</td><td>#trojan</td><td><code>trojan://humanity@104.17.111.8:443?type=ws&amp;host=www.ignitelimit.com&amp;path=/assignment&amp;security=tls&amp;sni=www.ignitelimit.com&amp;fp=chrome&amp;allowInsecure=0&amp;echfq=none#%3E%3E%40ISVvpn%3A%3AFR</code></td></tr>
+    <tr><td>02</td><td>16 分钟前</td><td>17 ms</td><td>66.7%</td><td>16 分钟前</td><td>#ss</td><td><code>ss://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
+    <tr><td>03</td><td>16 分钟前</td><td>21 ms</td><td>33.3%</td><td>16 分钟前</td><td>#vless</td><td><code>vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?flow=&amp;type=ws&amp;host=de.vpnbase.net&amp;path=/http&amp;security=none#%3E%3E%40ISVvpn%3A%3ADE</code></td></tr>
+    <tr><td>04</td><td>33 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ODk1YjRiNzk2YTM1NzU3MA@176.32.35.51:10916#Россия🇷🇺</code></td></tr>
     <tr><td>05</td><td>1 小时前</td><td>24 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>06</td><td>2 小时前</td><td>29 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>07</td><td>3 小时前</td><td>93 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ejBkSGpEZm9hU2FadVJGTEdILWhOZkJBTFNFSlVZRA@68.168.222.210:1234#США🇺🇸</code></td></tr>
