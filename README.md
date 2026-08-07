@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2008%3A47%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2008%3A57%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,19 +50,19 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-07 08:47 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-07 08:57 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>4 分钟前</td><td>15 ms</td><td>100.0%</td><td>4 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>6 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&amp;path=%2Fv2raybluecrystal&amp;security=reality&amp;encryption=none&amp;pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&amp;host=v2raybluecrystal.global.ssl.fastly.net&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=journalofbigdata.springeropen.com&amp;sid=5426024033df45#🆔ManVPN👈🇩🇪 @ManVPN6ZE7HH</code></td></tr>
-    <tr><td>03</td><td>6 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪FS9NUP</code></td></tr>
-    <tr><td>04</td><td>6 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&amp;path=%2Fv2raybluecrystal&amp;security=reality&amp;encryption=none&amp;pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&amp;host=v2raybluecrystal.global.ssl.fastly.net&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=journalofbigdata.springeropen.com&amp;sid=5426024033df45#🆔ManVPN👈🇩🇪 @ManVPN6ZE7HH</code></td></tr>
-    <tr><td>05</td><td>6 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪FS9NUP</code></td></tr>
-    <tr><td>06</td><td>9 分钟前</td><td>144 ms</td><td>100.0%</td><td>8 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
+    <tr><td>01</td><td>14 分钟前</td><td>15 ms</td><td>100.0%</td><td>14 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>16 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&amp;path=%2Fv2raybluecrystal&amp;security=reality&amp;encryption=none&amp;pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&amp;host=v2raybluecrystal.global.ssl.fastly.net&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=journalofbigdata.springeropen.com&amp;sid=5426024033df45#🆔ManVPN👈🇩🇪 @ManVPN6ZE7HH</code></td></tr>
+    <tr><td>03</td><td>16 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪FS9NUP</code></td></tr>
+    <tr><td>04</td><td>16 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://84bdd0fc-5a87-496c-b891-0e1e54555e7b@150.241.99.63:80?mode=auto&amp;path=%2Fv2raybluecrystal&amp;security=reality&amp;encryption=none&amp;pbk=XvE4spgyHFlKdak6PAN23URn4I-vfIBtuylpc1U5pWM&amp;host=v2raybluecrystal.global.ssl.fastly.net&amp;fp=chrome&amp;spx=%2F&amp;type=xhttp&amp;sni=journalofbigdata.springeropen.com&amp;sid=5426024033df45#🆔ManVPN👈🇩🇪 @ManVPN6ZE7HH</code></td></tr>
+    <tr><td>05</td><td>16 分钟前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.76.166.82:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#🆔ManVPN👈🇩🇪 @ManVPN 🇩🇪FS9NUP</code></td></tr>
+    <tr><td>06</td><td>19 分钟前</td><td>144 ms</td><td>100.0%</td><td>18 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.245.235.84:2375#США🇺🇸</code></td></tr>
     <tr><td>07</td><td>1 小时前</td><td>22 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>08</td><td>2 小时前</td><td>19 ms</td><td>100.0%</td><td>2 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>09</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@143.47.178.83:45819#Нидерланды🇳🇱</code></td></tr>
