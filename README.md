@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2007%3A57%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2008%3A07%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-07 07:57 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-07 08:07 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>54 分钟前</td><td>22 ms</td><td>100.0%</td><td>54 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>1 小时前</td><td>22 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.230:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 小时前</td><td>19 ms</td><td>100.0%</td><td>1 小时前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
     <tr><td>03</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZVEV5WkRJME9HUXdNMlptWmpjNFpUZzFaVEJpWVRObFpUWmtaakl4T0RNPQ@143.47.178.83:45819#Нидерланды🇳🇱</code></td></tr>
     <tr><td>04</td><td>1 小时前</td><td>18 ms</td><td>100.0%</td><td>1 小时前</td><td>#trojan</td><td><code>trojan://humanity@millionaire.levikogjgfdd.ir:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR</code></td></tr>
@@ -81,12 +81,12 @@
     <tr><td>22</td><td>2 小时前</td><td>31 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX</code></td></tr>
     <tr><td>23</td><td>2 小时前</td><td>22 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576?security=reality&amp;encryption=none&amp;pbk=…</code></td></tr>
     <tr><td>24</td><td>2 小时前</td><td>19 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%3E%3E%40v2rayNG_Matsuri%3A%3AXX</code></td></tr>
-    <tr><td>25</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>26</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=po.fastbrokencompony.com#%3E%3E%40v2ray1_ng%3A%3AXX</code></td></tr>
-    <tr><td>27</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#trojan</td><td><code>trojan://humanity@104.17.121.9:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR</code></td></tr>
-    <tr><td>28</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=po.fastbrokencompony.com#%3E%3E%40v2ray1_ng%3A%3AXX</code></td></tr>
-    <tr><td>29</td><td>2 小时前</td><td>7 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
-    <tr><td>30</td><td>2 小时前</td><td>253 ms</td><td>100.0%</td><td>2 小时前</td><td>#trojan</td><td><code>trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&amp;sni=definite-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP</code></td></tr>
+    <tr><td>25</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>26</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=po.fastbrokencompony.com#%3E%3E%40v2ray1_ng%3A%3AXX</code></td></tr>
+    <tr><td>27</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#trojan</td><td><code>trojan://humanity@104.17.121.9:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=www.calmlunch.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR</code></td></tr>
+    <tr><td>28</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://e7961655-9674-4cbd-a36f-ec0d5d7d660c@45.130.125.200:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=po.fastbrokencompony.com#%3E%3E%40v2ray1_ng%3A%3AXX</code></td></tr>
+    <tr><td>29</td><td>3 小时前</td><td>7 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.16.72.21:8880?path=%2Fpyip&amp;security=none&amp;encryption=none&amp;host=royal-shape-3771.93-728.workers.dev&amp;type=ws#%3E%3E%40v2ray1_ng%3A%3AUS</code></td></tr>
+    <tr><td>30</td><td>3 小时前</td><td>253 ms</td><td>100.0%</td><td>3 小时前</td><td>#trojan</td><td><code>trojan://ND91608427@definite-sturgeon.rooster465.autos:443?allowInsecure=1&amp;sni=definite-sturgeon.rooster465.autos#%3E%3E%40v2nodes%3A%3AJP</code></td></tr>
   </tbody>
 </table>
 
