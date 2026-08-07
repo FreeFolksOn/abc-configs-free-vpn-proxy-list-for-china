@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2000%3A47%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2000%3A57%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-07 00:47 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-07 00:57 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>45 分钟前</td><td>26 ms</td><td>100.0%</td><td>44 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>55 分钟前</td><td>26 ms</td><td>100.0%</td><td>54 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?typetcp#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 小时前</td><td>291 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMWFlMGZjZS05MzQwLTRmMmUtODgyZC1mZGIyMjE4ZTJlMmI@36.224.177.236:50099#Тайвань🇹🇼</code></td></tr>
     <tr><td>03</td><td>2 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.1…</code></td></tr>
     <tr><td>04</td><td>2 小时前</td><td>26 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;host=mmad&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2#%40Daily_Configs</code></td></tr>
