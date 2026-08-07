@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2021%3A51%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2022%3A01%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-07 21:51 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-07 22:01 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>22 分钟前</td><td>25 ms</td><td>100.0%</td><td>22 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
+    <tr><td>01</td><td>32 分钟前</td><td>25 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.225:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>02</td><td>1 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyTDEY2F</code></td></tr>
     <tr><td>03</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://89b3cbba-e6ac-485a-9481-976a0415eab9@45.142.120.134:80?path=Telegram%3A%40ShadowProxy66%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&amp;type=ws#🆔ManVPN👈🇧🇬 IRAN%20132%20%28%40Outline_Vpn%29%20Free</code></td></tr>
     <tr><td>04</td><td>1 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.70:51615?security=none&amp;encryption=none&amp;host=zula.ir&amp;headerType=http&amp;type=tcp#🆔ManVPN👈🇩🇪 https%3A%2F%2Ft.me%2FV2ry_ProxyTDEY2F</code></td></tr>
@@ -85,8 +85,8 @@
     <tr><td>26</td><td>2 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configsvless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&amp;security=reality&amp;sni=download.nvidia.com&amp;pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&amp;type=grpc&amp;authority=&amp;serviceName=TunService&amp;mode=gun#%40Daily_Configsvless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configsvless://99501a70-d1ee-41bf-888b-4f683e0ac99e@kids.iranlightspeed.ir:2087?encryption=mlkem768x25519plus.native.0rtt.T7sj1zyyNeRn6AsoFjafJp-gflNEeREp9byQMcyXmXA&amp;security=reality&amp;sni=play.google&amp;fp=chrome&amp;pbk=hh5xaT67a3bBrX5vYs9RJTNpY4zZMFPDQe7HCV6zkiM&amp;sid=8845f236cb8b3ac9&amp;spx=%2Fcf15ab91281bb64&amp;pqv=27iZZO3utCjC7SGTWaY0k--iR_JS6o7-3ruto82CqAFlBHQJ3OazO_-ZOvKDwnpnCm7QW4PvepfW4i9X0116o5-OpdkYzTQm6yt88KXRpqR48mhiL3QoYJHac8RoJkrz7Wg_wASKmTn18SqMR1o1kERvR0KjFbLoQxiqCJ0j7t_r2SBgn0kcP-VtAM4qZsmOgBZNvB9qTiqJfiYbdKEq47_eT…</code></td></tr>
     <tr><td>27</td><td>2 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#vless</td><td><code>vless://8d1bef3f-e128-428f-b6a1-d11b2010eed4@87.76.154.21:17262?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configsvless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443?encryption=none&amp;security=reality&amp;sni=download.nvidia.com&amp;pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&amp;type=grpc&amp;authority=&amp;serviceName=TunService&amp;mode=gun#%40Daily_Configsvless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=none#%40Daily_Configsvless://99501a70-d1ee-41bf-888b-4f683e0ac99e@kids.iranlightspeed.ir:2087?encryption=mlkem768x25519plus.native.0rtt.T7sj1zyyNeRn6AsoFjafJp-gflNEeREp9byQMcyXmXA&amp;security=reality&amp;sni=play.google&amp;fp=chrome&amp;pbk=hh5xaT67a3bBrX5vYs9RJTNpY4zZMFPDQe7HCV6zkiM&amp;sid=8845f236cb8b3ac9&amp;spx=%2Fcf15ab91281bb64&amp;pqv=27iZZO3utCjC7SGTWaY0k--iR_JS6o7-3ruto82CqAFlBHQJ3OazO_-ZOvKDwnpnCm7QW4PvepfW4i9X0116o5-OpdkYzTQm6yt88KXRpqR48mhiL3QoYJHac8RoJkrz7Wg_wASKmTn18SqMR1o1kERvR0KjFbLoQxiqCJ0j7t_r2SBgn0kcP-VtAM4qZsmOgBZNvB9qTiqJfiYbdKEq47_eT…</code></td></tr>
     <tr><td>28</td><td>2 小时前</td><td>29 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#Нидерланды🇳🇱</code></td></tr>
-    <tr><td>29</td><td>2 小时前</td><td>14 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
-    <tr><td>30</td><td>2 小时前</td><td>15 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>29</td><td>3 小时前</td><td>14 ms</td><td>100.0%</td><td>3 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
+    <tr><td>30</td><td>3 小时前</td><td>15 ms</td><td>100.0%</td><td>3 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.231.197:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
   </tbody>
 </table>
 
