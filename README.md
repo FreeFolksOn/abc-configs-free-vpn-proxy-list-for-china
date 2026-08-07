@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2012%3A17%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-07%2012%3A27%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,23 +50,23 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-07 12:17 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-07 12:27 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>16 分钟前</td><td>191 ms</td><td>100.0%</td><td>16 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
-    <tr><td>02</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>03</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>04</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg…</code></td></tr>
-    <tr><td>05</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>06</td><td>33 分钟前</td><td>8 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>07</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>08</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>32 分钟前</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg…</code></td></tr>
-    <tr><td>09</td><td>33 分钟前</td><td>7 ms</td><td>100.0%</td><td>32 分钟前</td><td>#trojan</td><td><code>trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#join--&gt;NormanConfig</code></td></tr>
-    <tr><td>10</td><td>33 分钟前</td><td>11 ms</td><td>100.0%</td><td>33 分钟前</td><td>#vless</td><td><code>vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>01</td><td>26 分钟前</td><td>191 ms</td><td>100.0%</td><td>26 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFdkxmV0dlMEFLdks@70.39.198.35:54166#США🇺🇸</code></td></tr>
+    <tr><td>02</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>03</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>04</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg…</code></td></tr>
+    <tr><td>05</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>42 分钟前</td><td>#ss</td><td><code>ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>06</td><td>43 分钟前</td><td>8 ms</td><td>100.0%</td><td>42 分钟前</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=support.zoom.us.yxls.eu.cc&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=support.zoom.us.yxls.eu.cc#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>07</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>42 分钟前</td><td>#ss</td><td><code>ss://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>08</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>42 分钟前</td><td>#ss</td><td><code>ss://4d10c997-4781-4cd9-82c3-15453523e12c@172.66.44.97:443?path=%2Fsg…</code></td></tr>
+    <tr><td>09</td><td>43 分钟前</td><td>7 ms</td><td>100.0%</td><td>42 分钟前</td><td>#trojan</td><td><code>trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#join--&gt;NormanConfig</code></td></tr>
+    <tr><td>10</td><td>43 分钟前</td><td>11 ms</td><td>100.0%</td><td>43 分钟前</td><td>#vless</td><td><code>vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=%2Fsg-melbi&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=josni.hoyes.cloudns.ch&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=josni.hoyes.cloudns.ch#join--&gt;NormanConfig</code></td></tr>
     <tr><td>11</td><td>1 小时前</td><td>不可用</td><td>0.0%</td><td>不可用</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ@129.151.67.22:61312#Великобритания🇬🇧</code></td></tr>
     <tr><td>12</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#trojan</td><td><code>trojan://humanity@172.67.149.60:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.ignitelimit.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#Telegram%20%3A%20%40Daily_Configs</code></td></tr>
     <tr><td>13</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#ss</td><td><code>ss://4d10c997…</code></td></tr>
