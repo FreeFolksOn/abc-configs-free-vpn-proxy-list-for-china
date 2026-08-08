@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2015%3A01%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2015%3A11%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,28 +50,28 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-08 15:01 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-08 15:11 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>5 分钟前</td><td>18 ms</td><td>100.0%</td><td>5 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
-    <tr><td>02</td><td>32 分钟前</td><td>16 ms</td><td>100.0%</td><td>31 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
-    <tr><td>03</td><td>32 分钟前</td><td>24 ms</td><td>100.0%</td><td>31 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=8443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
-    <tr><td>04</td><td>32 分钟前</td><td>14 ms</td><td>100.0%</td><td>31 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=5443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
-    <tr><td>05</td><td>32 分钟前</td><td>16 ms</td><td>100.0%</td><td>31 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=2443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
-    <tr><td>06</td><td>32 分钟前</td><td>18 ms</td><td>100.0%</td><td>32 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=folox.jeyko-max.info.&amp;port=44300&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>07</td><td>32 分钟前</td><td>17 ms</td><td>100.0%</td><td>32 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=167.233.250.101&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
-    <tr><td>08</td><td>32 分钟前</td><td>15 ms</td><td>100.0%</td><td>32 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=51.77.186.38&amp;port=8080&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ</code></td></tr>
-    <tr><td>09</td><td>32 分钟前</td><td>15 ms</td><td>100.0%</td><td>32 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=gold.lavazemi4.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>10</td><td>32 分钟前</td><td>15 ms</td><td>100.0%</td><td>32 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=noron.talebi.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
-    <tr><td>11</td><td>48 分钟前</td><td>51 ms</td><td>100.0%</td><td>48 分钟前</td><td>#ss</td><td><code>ss://8f60c053-e103-4c95-b912-b1037a029ebe@DIRECT.com.fastserverippanel.online:443?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
-    <tr><td>12</td><td>48 分钟前</td><td>59 ms</td><td>100.0%</td><td>48 分钟前</td><td>#ss</td><td><code>ss://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
-    <tr><td>13</td><td>48 分钟前</td><td>52 ms</td><td>100.0%</td><td>48 分钟前</td><td>#vless</td><td><code>vless://8f60c053-e103-4c95-b912-b1037a029ebe@DIRECT.com.fastserverippanel.online:443?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
-    <tr><td>14</td><td>48 分钟前</td><td>56 ms</td><td>100.0%</td><td>48 分钟前</td><td>#vless</td><td><code>vless://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
-    <tr><td>15</td><td>54 分钟前</td><td>197 ms</td><td>100.0%</td><td>54 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#Таиланд🇹🇭</code></td></tr>
+    <tr><td>01</td><td>15 分钟前</td><td>18 ms</td><td>100.0%</td><td>15 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=Berke.Wikimoon.sale&amp;port=443&amp;secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ</code></td></tr>
+    <tr><td>02</td><td>42 分钟前</td><td>16 ms</td><td>100.0%</td><td>41 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=87.248.129.49&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d</code></td></tr>
+    <tr><td>03</td><td>42 分钟前</td><td>24 ms</td><td>100.0%</td><td>41 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=8443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
+    <tr><td>04</td><td>42 分钟前</td><td>14 ms</td><td>100.0%</td><td>41 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=5443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
+    <tr><td>05</td><td>42 分钟前</td><td>16 ms</td><td>100.0%</td><td>41 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=love.roseprox.xyz&amp;port=2443&amp;secret=ee74e3501358c742b6ec0d4e5d8ffa2bf47777772e636c6f7564666c6172652e636f6d</code></td></tr>
+    <tr><td>06</td><td>42 分钟前</td><td>18 ms</td><td>100.0%</td><td>42 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=folox.jeyko-max.info.&amp;port=44300&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>07</td><td>42 分钟前</td><td>17 ms</td><td>100.0%</td><td>42 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=167.233.250.101&amp;port=8443&amp;secret=dd104462821249bd7ac519130220c25d09</code></td></tr>
+    <tr><td>08</td><td>42 分钟前</td><td>15 ms</td><td>100.0%</td><td>42 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=51.77.186.38&amp;port=8080&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQ</code></td></tr>
+    <tr><td>09</td><td>42 分钟前</td><td>15 ms</td><td>100.0%</td><td>42 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=gold.lavazemi4.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>10</td><td>42 分钟前</td><td>15 ms</td><td>100.0%</td><td>42 分钟前</td><td>#telegram_proxy</td><td><code>https://t.me/proxy?server=noron.talebi.co.uk&amp;port=2096&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ</code></td></tr>
+    <tr><td>11</td><td>58 分钟前</td><td>51 ms</td><td>100.0%</td><td>58 分钟前</td><td>#ss</td><td><code>ss://8f60c053-e103-4c95-b912-b1037a029ebe@DIRECT.com.fastserverippanel.online:443?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
+    <tr><td>12</td><td>58 分钟前</td><td>59 ms</td><td>100.0%</td><td>58 分钟前</td><td>#ss</td><td><code>ss://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
+    <tr><td>13</td><td>58 分钟前</td><td>52 ms</td><td>100.0%</td><td>58 分钟前</td><td>#vless</td><td><code>vless://8f60c053-e103-4c95-b912-b1037a029ebe@DIRECT.com.fastserverippanel.online:443?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
+    <tr><td>14</td><td>58 分钟前</td><td>56 ms</td><td>100.0%</td><td>58 分钟前</td><td>#vless</td><td><code>vless://8f60c053-e103-4c95-b912-b1037a029ebe@server.wiki.fastpanel.dash.api.carpetsart.ir:5055?security=reality&amp;encryption=none&amp;pbk=f4W1r0nI49Z30bbxXU6Hb5rYLZxlXegodg2MzS0BiWI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=yahoo.com&amp;sid=d15b96dda66c6c26#Norman</code></td></tr>
+    <tr><td>15</td><td>1 小时前</td><td>197 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsaHVVTFJ3TzRzbE02azI2MnBBQzRjYnE1QTFINno4ZWFPSFYyN3ZpN1l3PQ@47.81.56.202:44617#Таиланд🇹🇭</code></td></tr>
     <tr><td>16</td><td>1 小时前</td><td>197 ms</td><td>66.7%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZamxpWW1GbE56Vm1NbUU0Wm1Ka1lqQXhOelEyTldVeU56WmxOamhrWkdVPQ@163.176.1.25:59319#Бразилия🇧🇷</code></td></tr>
     <tr><td>17</td><td>2 小时前</td><td>15 ms</td><td>100.0%</td><td>2 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.197.53:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>18</td><td>2 小时前</td><td>15 ms</td><td>100.0%</td><td>2 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.197.53:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)🇨🇵t.me/PrivateVPNs</code></td></tr>
