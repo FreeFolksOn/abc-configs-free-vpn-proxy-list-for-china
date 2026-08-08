@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2000%3A01%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2000%3A11%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,14 +50,14 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-08 00:01 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-08 00:11 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>53 分钟前</td><td>7 ms</td><td>100.0%</td><td>53 分钟前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Германия🇩🇪</code></td></tr>
+    <tr><td>01</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV1ZoWVdNNE9URmxOR0ZoTlRGaU5qWTVORE5sT0RJM1pERTVOamMwWm1FPQ@92.5.161.213:59924#Германия🇩🇪</code></td></tr>
     <tr><td>02</td><td>1 小时前</td><td>11 ms</td><td>100.0%</td><td>1 小时前</td><td>#trojan</td><td><code>trojan://humanity@join-telegram-channel.tirexnet.kdns.fr:443?path=%2Fassignment&amp;security=tls&amp;alpn=h3%2Ch2%2Chttp%2F1.1&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.ignitelimit.com#%40kakajan1</code></td></tr>
     <tr><td>03</td><td>1 小时前</td><td>不可用</td><td>不可用</td><td>不可用</td><td>#ss</td><td><code>ss://859a537b…</code></td></tr>
     <tr><td>04</td><td>1 小时前</td><td>7 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://b1d206b2-83b8-4756-aa3d-838242451c8d@144.31.157.202:110?security=none&amp;encryption=none&amp;host=play.google.com&amp;headerType=none&amp;type=tcp#%40kakajan</code></td></tr>
