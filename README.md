@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/abc_configs"><img alt="Telegram 频道 @abc_configs" src="https://img.shields.io/badge/Telegram-%40abc_configs-26A5E4?logo=telegram&logoColor=white"></a>
   <a href="https://t.me/abc_configs?direct"><img alt="Telegram 私信" src="https://img.shields.io/badge/Telegram-%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC-26A5E4?logo=telegram&logoColor=white"></a>
-  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2012%3A21%20UTC&color=blue">
+  <img alt="最后更新" src="https://img.shields.io/static/v1?label=%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0&message=2026-08-08%2012%3A31%20UTC&color=blue">
   <img alt="每 10 分钟自动刷新" src="https://img.shields.io/static/v1?label=%E8%87%AA%E5%8A%A8%E5%88%B7%E6%96%B0&message=%E6%AF%8F%2010%20%E5%88%86%E9%92%9F&color=brightgreen">
   <img alt="许可证：Unlicense" src="https://img.shields.io/static/v1?label=%E8%AE%B8%E5%8F%AF%E8%AF%81&message=Unlicense&color=lightgrey">
 </p>
@@ -50,18 +50,18 @@
 
 ## 最新 30 条配置
 
-**最后更新：** 2026-08-08 12:21 UTC（每 10 分钟刷新）
+**最后更新：** 2026-08-08 12:31 UTC（每 10 分钟刷新）
 
 <table>
   <thead>
     <tr><th>#</th><th>时间</th><th>延迟</th><th>成功率</th><th>最后存活时间</th><th>标签</th><th>配置</th></tr>
   </thead>
   <tbody>
-    <tr><td>01</td><td>6 分钟前</td><td>54 ms</td><td>100.0%</td><td>6 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.152:10901#Италия🇮🇹</code></td></tr>
-    <tr><td>02</td><td>39 分钟前</td><td>7 ms</td><td>100.0%</td><td>39 分钟前</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>03</td><td>39 分钟前</td><td>7 ms</td><td>100.0%</td><td>39 分钟前</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>04</td><td>39 分钟前</td><td>7 ms</td><td>100.0%</td><td>39 分钟前</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
-    <tr><td>05</td><td>39 分钟前</td><td>7 ms</td><td>100.0%</td><td>39 分钟前</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>01</td><td>16 分钟前</td><td>54 ms</td><td>100.0%</td><td>16 分钟前</td><td>#ss</td><td><code>ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA@194.87.47.152:10901#Италия🇮🇹</code></td></tr>
+    <tr><td>02</td><td>49 分钟前</td><td>7 ms</td><td>100.0%</td><td>49 分钟前</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>03</td><td>49 分钟前</td><td>7 ms</td><td>100.0%</td><td>49 分钟前</td><td>#ss</td><td><code>ss://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>04</td><td>49 分钟前</td><td>7 ms</td><td>100.0%</td><td>49 分钟前</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@89.116.250.135:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
+    <tr><td>05</td><td>49 分钟前</td><td>7 ms</td><td>100.0%</td><td>49 分钟前</td><td>#vless</td><td><code>vless://8376b8b2-e3dd-4d81-bce6-436eb3ba1022@104.17.108.1:443?encryption=none&amp;type=xhttp&amp;security=tls&amp;path=%2F&amp;alpn=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&amp;host=ab.xonira.ir&amp;mode=packet-up&amp;sni=ab.xonira.ir&amp;alpn=h2%2Chttp%2F1.1&amp;fp=firefox#🇩🇪 Telegram @SRCVPN</code></td></tr>
     <tr><td>06</td><td>1 小时前</td><td>26 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#Нидерланды🇳🇱</code></td></tr>
     <tr><td>07</td><td>1 小时前</td><td>15 ms</td><td>100.0%</td><td>1 小时前</td><td>#ss</td><td><code>ss://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
     <tr><td>08</td><td>1 小时前</td><td>14 ms</td><td>100.0%</td><td>1 小时前</td><td>#vless</td><td><code>vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.87.82:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)🇨🇵t.me/PrivateVPNs</code></td></tr>
